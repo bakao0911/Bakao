@@ -1,0 +1,2 @@
+Codex GitHub review connectivity probe.
+No command execution, credential access, or local-PC action is requested.
