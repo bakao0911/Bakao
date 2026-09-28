@@ -1,0 +1,2 @@
+Harmless Codex GitHub review connectivity test.
+No local machine command execution is requested.
